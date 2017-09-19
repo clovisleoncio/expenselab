@@ -1,0 +1,6 @@
+spring:
+    datasource:
+        driverClassName: com.mysql.jdbc.Driver
+        url: jdbc:mysql://clovis-mysql/expenselab?serverTimezone=UTC&nullNamePatternMatchesAll=true
+        username: expense
+        password: expenselab
